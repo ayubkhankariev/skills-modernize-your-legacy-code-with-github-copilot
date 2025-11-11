@@ -1,0 +1,44 @@
+[
+  {
+    "studentId": "S100",
+    "name": "Dup Tester",
+    "balance": 0,
+    "lastPayment": "2025-11-11T18:26:53.052Z",
+    "status": "ACTIVE"
+  },
+  {
+    "studentId": "S300",
+    "name": "Partial Payer",
+    "balance": 1000,
+    "lastPayment": "2025-11-11T18:26:53.052Z",
+    "status": "ACTIVE"
+  },
+  {
+    "studentId": "S310",
+    "name": "Full Payer",
+    "balance": 500,
+    "lastPayment": "2025-11-11T18:26:53.052Z",
+    "status": "ACTIVE"
+  },
+  {
+    "studentId": "S320",
+    "name": "Over Payer",
+    "balance": 200,
+    "lastPayment": "2025-11-11T18:26:53.052Z",
+    "status": "ACTIVE"
+  },
+  {
+    "studentId": "S330",
+    "name": "Overdue User",
+    "balance": 0,
+    "lastPayment": "2025-10-02T18:26:53.052Z",
+    "status": "ACTIVE"
+  },
+  {
+    "studentId": "S340",
+    "name": "To Close",
+    "balance": 50,
+    "lastPayment": "2025-11-11T18:26:53.052Z",
+    "status": "ACTIVE"
+  }
+]
